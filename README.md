@@ -15,24 +15,22 @@ A modern, next-gen portfolio website showcasing my field hockey journey and inte
 
 ```
 portfolio-arnav/
-├── index.html          # Main HTML file
-├── style.css           # Styling
-├── script.js           # Interactivity
-├── portfolio-photo.jpg # Your profile photo
-└── README.md           # This file
+├── index.html
+├── style.css
+├── script.js
+├── IMG20251221170500.jpg
+└── README.md
 ```
 
 ## 🚀 How to Use
 
 ### 1. Add Your Photo
-- Save your profile photo as `portfolio-photo.jpg` in this folder
-- The photo will automatically appear in the hero section
-- Recommended size: 400x500px or similar aspect ratio
+Your profile photo (IMG20251221170500.jpg) is already in the folder and linked!
 
 ### 2. Customize Your Info
 Edit `index.html` to customize:
-- Your email in the contact section (line 107)
-- Your social media links (line 108)
+- Your email in the contact section
+- Your social media links
 - Any other personal details
 
 ### 3. Test Locally
@@ -53,7 +51,7 @@ Simply open `index.html` in your browser to preview the site.
    - `index.html`
    - `style.css`
    - `script.js`
-   - `portfolio-photo.jpg`
+   - `IMG20251221170500.jpg`
    - `README.md`
 
 ### Step 3: Commit and Publish
